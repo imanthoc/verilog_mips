@@ -34,5 +34,5 @@ Also this implementation has a basic interrupt mechanism.
 The basic interrupt mechanism is controlled by the following FSM
 <figure>
     <figcaption>Interrupt FSM</figcaption>
-  <img src="img/intrfsm.png" width="600"/>
+  <img src="img/intrfsm.png" width="300"/>
 </figure>
