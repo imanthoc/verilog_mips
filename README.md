@@ -38,8 +38,7 @@ The basic interrupt mechanism is controlled by the following FSM
 </figure>
 <br />
 
-Following are three basic tests done.
-The first one being a math ops test
+Following are three basic tests done. One for math ops, one for mem and branch ops and one for an interrupt test.
 <figure>
     <figcaption>Math ops test</figcaption>
   <img src="img/mathtest.png" width="500"/>
@@ -47,5 +46,25 @@ The first one being a math ops test
 
 <figure>
     <figcaption>Math ops output</figcaption>
-  <img src="img/mathtest_outp.png" width="800"/>
+  <img src="img/mathtest_outp.png" width="900"/>
+</figure>
+
+<figure>
+    <figcaption>Memory and Branch test</figcaption>
+  <img src="img/mbtest.png" width="500"/>
+</figure>
+
+<figure>
+    <figcaption>Mem and Branch test output</figcaption>
+  <img src="img/mbtest_outp.png" width="900"/>
+</figure>
+
+<figure>
+    <figcaption>Interrupt test</figcaption>
+  <img src="img/intrcode.png" width="500"/>
+</figure>
+
+<figure>
+    <figcaption>Mem and Branch test output</figcaption>
+  <img src="img/intrtest_outp.png" width="900"/>
 </figure>
