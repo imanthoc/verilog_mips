@@ -36,3 +36,11 @@ The basic interrupt mechanism is controlled by the following FSM
     <figcaption>Interrupt FSM</figcaption>
   <img src="img/intrfsm.png" width="300"/>
 </figure>
+<br />
+
+Following are three basic tests done.
+The first one being a math ops test
+<figure>
+    <figcaption>Math ops test</figcaption>
+  <img src="img/mathtest.png" width="500"/>
+</figure>
