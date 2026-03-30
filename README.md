@@ -17,7 +17,7 @@ The original MIPS has a 5 stage pipeline, for simplicity this is a 3 stage pipel
 Also this implementation has a basic interrupt mechanism.
 
 <figure>
-  <img src="image.png" alt="img/fetchdec.png" width="600"/>
+  <img src="img/fetchdec.png" alt="img/fetchdec.png" width="600"/>
   <figcaption>Fetch-Decode stage</figcaption>
 </figure>
 
