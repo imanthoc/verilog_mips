@@ -44,3 +44,8 @@ The first one being a math ops test
     <figcaption>Math ops test</figcaption>
   <img src="img/mathtest.png" width="500"/>
 </figure>
+
+<figure>
+    <figcaption>Math ops output</figcaption>
+  <img src="img/mathtest_outp.png" width="500"/>
+</figure>
