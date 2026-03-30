@@ -16,6 +16,11 @@ Mips is based on Hennessy & Patterson description.
 The original MIPS has a 5 stage pipeline, for simplicity this is a 3 stage pipeline.
 Also this implementation has a basic interrupt mechanism.
 
+<figure>
+  <img src="image.png" alt="img/fetchdec.png" width="600"/>
+  <figcaption>Fetch-Decode stage</figcaption>
+</figure>
+
 ![screenshot](img/fetchdec.png)
 *Fetch-Decode stage*
 ![screenshot](img/exec.png)
