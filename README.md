@@ -17,8 +17,12 @@ The original MIPS has a 5 stage pipeline, for simplicity this is a 3 stage pipel
 Also this implementation has a basic interrupt mechanism.
 
 ![screenshot](img/fetchdec.png)
+*Fetch-Decode stage*
 ![screenshot](img/exec.png)
+*Execute stage*
 ![screenshot](img/memwb.png)
+*Memory-Writeback stage*
 
 The basic interrupt mechanism is controlled by the following FSM
 ![screenshot](img/intrfsm.png)
+*Interrupt FSM*
