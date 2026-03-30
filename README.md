@@ -19,23 +19,20 @@ Also this implementation has a basic interrupt mechanism.
 <figure>
     <figcaption>Fetch-Decode stage</figcaption>
   <img src="img/fetchdec.png" width="600"/>
-  
 </figure>
 
 <figure>
     <figcaption>Execute stage</figcaption>
   <img src="img/exec.png" width="600"/>
-  
 </figure>
 
 <figure>
     <figcaption>Memory-Writeback stage</figcaption>
   <img src="img/memwb.png" width="600"/>
-  
 </figure>
 
 The basic interrupt mechanism is controlled by the following FSM
 <figure>
+    <figcaption>Interrupt FSM</figcaption>
   <img src="img/intrfsm.png" width="600"/>
-  <figcaption>Interrupt FSM</figcaption>
 </figure>
